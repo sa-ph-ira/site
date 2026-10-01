@@ -25,7 +25,7 @@ Nous venons de plusieurs horizons mais nous sommes avons tout des humain.e.s de 
 
 ## Mais aussi...
 Notre ambition ne s’arrête pas là,
-A plus long terme, nous souhaitons:
-soutenir la recherche vétérinaire
-développer un réseau de garde solidaire
-prendre en charge des chiens atteints de MICI dont les familles ne peuvent plus suivre, 
+à plus long terme, nous souhaitons:
+* soutenir la recherche vétérinaire
+* développer un réseau de garde solidaire
+* prendre en charge des chiens atteints de MICI dont les familles ne peuvent plus suivre, 
