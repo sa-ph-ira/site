@@ -1,6 +1,6 @@
 ---
 title: "Nos soutenir"
-order: 3
+order: 2
 in_menu: true
 ---
 Pour soutenir l'association, vous pouvez [devenir adhérent·e](https://www.helloasso.com/beta/associations/association-sa-ph-ira/adhesions/adhesion){:target="_blank"}. Plus notre association aura d’adhérent·es, plus elle gagnera en crédibilité et en reconnaissance, nous permettant d’agir concrètement. L'adhésion vous permet également de vous investir au sein de l'association notamment en participant et en ayant un droit de votre lors des assemblées générales.
